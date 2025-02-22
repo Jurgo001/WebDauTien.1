@@ -1,0 +1,15 @@
+{
+	"folders": [
+		{
+			"path": "../visual"
+		},
+		{
+			"path": "../BaiTapNhom_BaitapLan2"
+		}
+	],
+	"settings": {},
+	"launch": {
+		"version": "0.2.0",
+		"configurations": []
+	}
+}
